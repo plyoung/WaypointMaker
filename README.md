@@ -28,3 +28,7 @@ There is however also a list of indices generated at runtime during Path's `Awak
 
 The node ID will never change, even if you add or remove more nodes to the path. The IDX will differ depending on how many nodes are in the scene and in what order they appear in the `Path.nodes` list.
 
+![screenshot](https://user-images.githubusercontent.com/837362/29813875-b7c22ddc-8cab-11e7-8a95-1737ffe0f691.png)
+
+
+

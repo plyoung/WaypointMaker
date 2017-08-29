@@ -1,6 +1,5 @@
-# WaypointMaker
-
-[Unity Asset Store (soon)](https://assetstore.unity.com/publishers/380) | [my Patreon page](https://www.patreon.com/plyoung) | [Video](https://www.youtube.com/watch?v=VAnBHcs3snI)
+WaypointMaker
+-------------
 
 This is a simple tool for laying out and using waypoints in Unity. It also features an option to quickly lay out a simple grid of connected nodes or a street type grid layout of nodes.
 

@@ -1,7 +1,5 @@
 # WaypointMaker
 
-[Asset Store (soon)](https://assetstore.unity.com/publishers/380) | [Patreon](https://www.patreon.com/plyoung) | [Video](https://www.youtube.com/watch?v=VAnBHcs3snI)
-
 This is a simple tool for laying out and using waypoints in Unity. It also features an option to quickly lay out a simple grid of connected nodes or a street type grid layout of nodes.
 
 ### Use
@@ -27,6 +25,12 @@ The `PathNode` has the node's `id` and `position` information. It also has a lis
 There is however also a list of indices generated at runtime during Path's `Awake()`. This is stored in `PathNode.OutNodeIdx` for each node and could be used as a faster way of getting node info than using the ID lookup.
 
 The node ID will never change, even if you add or remove more nodes to the path. The IDX will differ depending on how many nodes are in the scene and in what order they appear in the `Path.nodes` list.
+
+[![Video on YouTube](http://www.plyoung.com/img/buttons/youtube_s.png)](https://www.youtube.com/watch?v=VAnBHcs3snI) 
+[![Follow on Twitter](http://www.plyoung.com/img/buttons/twitter_s.png)](https://twitter.com/pl_young) 
+[![Unity Asset Store](http://www.plyoung.com/img/buttons/assetstore_s.png)](https://assetstore.unity.com/publishers/380) 
+[![Donate](http://www.plyoung.com/img/buttons/paypal_s.png)](https://www.paypal.me/plyoung) 
+[![Patreon](http://www.plyoung.com/img/buttons/patreon_s.png)](https://www.patreon.com/plyoung) 
 
 ![screenshot](https://user-images.githubusercontent.com/837362/29813875-b7c22ddc-8cab-11e7-8a95-1737ffe0f691.png)
 
